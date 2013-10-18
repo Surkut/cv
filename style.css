@@ -1,0 +1,53 @@
+.header {
+  background-color : #e3e4e4; 
+}
+
+.ID {
+  margin-left : 100px;
+  float : left;
+}
+
+.ME {
+  margin-left : 300px;
+  float : left;
+}
+
+.sections {
+  width : 100%;
+  display : block;
+}
+
+.section-title {
+  background-color : #3e4dc2;
+  float : left;
+  color : white;
+  text-align : left;
+  vertical-align : text-bottom;
+  font-size : 20px;
+  margin : 5px 5px 5px 5px;
+  height : 200px;
+  width : 200px;
+  position : relative;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	}
+
+.note {
+  font-style : italic;
+}
+
+.title {
+  color : white;
+  background-color : #3e4dc2;
+  height : 40px;
+  width : 800px;
+  padding-top : 3px;
+}
+
