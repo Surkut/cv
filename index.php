@@ -2,7 +2,7 @@
 
 <head>
 <link rel="stylesheet" type="text/css" href="style.css" />
-</head>
+</head> 
 
 <body>
 <section class="header">
