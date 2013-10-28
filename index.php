@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <head>
 <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
@@ -95,4 +93,3 @@
  </article>
 </section>
 </body>
-</html>

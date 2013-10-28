@@ -1,7 +1,8 @@
-
+*{
+    font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+ } 
 
 .header {
-    font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
     background-color : #e3e4e4;
 }
 
@@ -24,7 +25,6 @@
     color : white;
     text-align : left;
     vertical-align : text-bottom;
-    font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-size : 20px;
     margin : 5px 5px 5px 5px;
     height : 200px;
@@ -42,13 +42,11 @@
 	}
 
 .note {
-    font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-style : italic;
 }
 
 .title {
     color : white;
-    font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
     background-color : #3e4dc2;
     height : 40px;
     width : 800px;
