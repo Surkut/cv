@@ -1,37 +1,39 @@
+
+
 .header {
-  background-color : #e3e4e4; 
+    font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+    background-color : #e3e4e4;
 }
 
 .ID {
-  margin-left : 100px;
-  float : left;
+    margin-left : 100px;
 }
 
 .ME {
-  margin-left : 300px;
-  float : left;
+    margin-left : 300px;
 }
 
 .sections {
-  width : 100%;
-  display : block;
+    width : 100%;
+    display : block;
 }
 
 .section-title {
-  background-color : #3e4dc2;
-  float : left;
-  color : white;
-  text-align : left;
-  vertical-align : text-bottom;
-  font-size : 20px;
-  margin : 5px 5px 5px 5px;
-  height : 200px;
-  width : 200px;
-  position : relative;
+    background-color : #3e4dc2;
+    float : left;
+    color : white;
+    text-align : left;
+    vertical-align : text-bottom;
+    font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size : 20px;
+    margin : 5px 5px 5px 5px;
+    height : 200px;
+    width : 200px;
+    position : relative;
 }
 
 .clearfix:after {
-	visibility: hidden;
+    visibility: hidden;
 	display: block;
 	font-size: 0;
 	content: " ";
@@ -40,14 +42,18 @@
 	}
 
 .note {
-  font-style : italic;
+    font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-style : italic;
 }
 
 .title {
-  color : white;
-  background-color : #3e4dc2;
-  height : 40px;
-  width : 800px;
-  padding-top : 3px;
+    color : white;
+    font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+    background-color : #3e4dc2;
+    height : 40px;
+    width : 800px;
+    padding-top : 3px;
 }
+
+
 
